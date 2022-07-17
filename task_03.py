@@ -1,4 +1,4 @@
-n = int(input('Введите число: '))
+n = int(input('Введите любое число: '))
 n_str = str(n)
 n1 = n_str + n_str
 n2 = n_str + n_str + n_str
